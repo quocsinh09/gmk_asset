@@ -1,8 +1,6 @@
 # gmk_asset
 
-```
-Mở các file .md ở trên tùy theo nhu cầu :3
+Mở thư mục ```oday``` rồi tìm đến cái cần :3
 
-```
 RPG là game nhìn như này ![rpg1](khongphaicainay/rpg/rpg1.png)
 
