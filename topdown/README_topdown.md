@@ -1,18 +1,16 @@
 # gmk_asset
-[space](https://ansimuz.itch.io/space-background)
-![space](space.png)  
-  
-  
-[ship](https://ansimuz.itch.io/spaceship-shooter-environment)
-![ship](ship.png)  
 
-[planet](https://helianthus-games.itch.io/pixel-art-planets)
-![planet](planet.png)  
+```background```  
+[![space](space.png) ](https://ansimuz.itch.io/space-background)  
+ 
+[![ship](ship.png)](https://ansimuz.itch.io/spaceship-shooter-environment)  
 
-[space](https://vectorpixelstar.itch.io/space)
-![space](space2.png)  
+```lấy hành tinh trang trí```  
+[![planet](planet.png)](https://helianthus-games.itch.io/pixel-art-planets) 
 
-[nebula](https://v-ktor.itch.io/nebula-background-images)
-![nebula](nebula.png)  
+```background nữa```  
+[![space](space2.png)](https://vectorpixelstar.itch.io/space)
+[![nebula](nebula.png) ](https://v-ktor.itch.io/nebula-background-images)  
+ 
 
 
