@@ -4,5 +4,5 @@
 Mở các file .md ở trên tùy theo nhu cầu :3
 
 ```
-RPG là game nhìn như này ![rpg1](rpg/rpg1.png)
+RPG là game nhìn như này ![rpg1](khongphaicainay/rpg/rpg1.png)
 
