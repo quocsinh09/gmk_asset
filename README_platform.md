@@ -18,6 +18,7 @@
 
 [![gunner](platform/gunner.png)](https://secrethideout.itch.io/team-wars-platformer-battle)  
 
+```mây```  
 [![cloud](platform/cloud.png)](https://s4m-ur4i.itch.io/pixelart-clouds-background)  
 
 ```full pack```  
@@ -33,7 +34,9 @@
 [![gothic](platform/gothic.png)](https://ansimuz.itch.io/gothicvania-church-pack)  
 [![gothic](platform/gothic2.png)](https://ansimuz.itch.io/gothicvania-town)  
 [![gothic](platform/gothic3.png)](https://ansimuz.itch.io/gothicvania-cemetery)  
-
+    
+   
+    
 [![axe](platform/axe.png)](https://sanctumpixel.itch.io/imp-axe-demon-pixel-art-character)  
   
 ```full pack```  
@@ -43,9 +46,9 @@
 
 ```full pack```  
 [![industrial](platform/industrial.png)](https://ollieberzs.itch.io/industrial-pack)  
-
+---
 [![slime](platform/slime.png) ](https://reff-sq.itch.io/slime-animations)  
- 
+---
 [![tiny](platform/tiny.png)](https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art)  
 
 ```có thể dùng làm đạn```   
