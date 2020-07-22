@@ -25,3 +25,15 @@
 [![pico](rpg/pico3.png)](https://cluly.itch.io/pico-rpg-forest-tileset)  
 
 [![scifi](rpg/scifi.png)](https://rottingpixels.itch.io/sci-fi-tileset)  
+
+
+```
+chỉ đi lên xuống, trái phải thôi :3
+```  
+[![player](topdown/player.png)](https://aztrakatze.itch.io/top-down-character-pack-4-directions)  
+
+```
+click vào từng nhân vật sẽ ra nhân vật đó
+chỉ đi lên xuống, trái phải thôi :3
+```  
+[![mul](topdown/mul.png)](http://untamed.wild-refuge.net/rmxpresources.php?characters)  

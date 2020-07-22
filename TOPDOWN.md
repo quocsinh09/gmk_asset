@@ -14,9 +14,13 @@
 
 [![tank](topdown/tank.png)](https://ragewortt.itch.io/top-down-sci-fi-tanks)  
 
+```
+chỉ đi lên xuống, trái phải thôi :3
+```  
 [![player](topdown/player.png)](https://aztrakatze.itch.io/top-down-character-pack-4-directions)  
 
-```click vào từng nhân vật sẽ ra nhân vật đó
+```
+click vào từng nhân vật sẽ ra nhân vật đó
 chỉ đi lên xuống, trái phải thôi :3
 ```  
 [![mul](topdown/mul.png)](http://untamed.wild-refuge.net/rmxpresources.php?characters)  
