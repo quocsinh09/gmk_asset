@@ -29,6 +29,10 @@
 
 ```cái này xịn :3```  
 [![ongsu](ongsu.png)](https://ansimuz.itch.io/gothicvania-monk-character-add-on)  
+```full set của cái trên```  
+[![gothic](gothic.png)](https://ansimuz.itch.io/gothicvania-church-pack)  
+[![gothic](gothic2.png)](https://ansimuz.itch.io/gothicvania-town)  
+[![gothic](gothic3.png)](https://ansimuz.itch.io/gothicvania-cemetery)  
 
 [![axe](axe.png)](https://sanctumpixel.itch.io/imp-axe-demon-pixel-art-character)  
   
@@ -70,5 +74,27 @@
 
 [![bat](bat.png)  ](https://elthen.itch.io/bat-sprite-pack)  
 
+```super saiyan :)) chưa test
+ phải mất công cắt
+```  
+[![super](super.png)](https://assetbakery.itch.io/-2d-fighter-4)  
+[![super](super2.png)](https://assetbakery.itch.io/2d-fighter-3)  
+[![super](super3.png)](https://assetbakery.itch.io/2d-fighter-5)  
+
+
+```fullpack```  
+[![forest](forest2.png)](https://mamanezakon.itch.io/forest-tileset)  
+
+[![knight](knight.png)](https://adrverissimo.itch.io/knight-pixel-art)  
+
+```full pack```  
+[![warp](wrap.png)](https://ansimuz.itch.io/warped-city)  
+
+[![cyberpunk](cyberpunk.png)](https://ansimuz.itch.io/cyberpunk-street-environment)  
+
+```hit attack```  
+[![hit](hti.png)](https://v-ktor.itch.io/pixelated-attackhit-animations)  
+
+[![rogue](rogue2.png)](https://lionheart963.itch.io/rogue-like-character)  
 
 

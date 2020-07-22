@@ -10,3 +10,6 @@
 [![explosion](explosion3.png)](https://sinestesia.itch.io/2d-explosions-animations)  
  
 [![explosion](explosion4.png)](https://sinestesia.itch.io/free-2d-explosion-animations-2)  
+
+[![battle](battle.png)](https://pimen.itch.io/pixel-battle-effects)  
+

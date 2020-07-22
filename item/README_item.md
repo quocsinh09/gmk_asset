@@ -6,5 +6,11 @@
 ```đồ nông trại```  
 [![farm](farm.png)](https://jordizzle.itch.io/farming-game-asset-pack-1)  
   
-
+  ```item hồi phục, mana, ...```  
+  [![item](item2.png)](https://sivk.itch.io/free-consumable-items-16x16)  
+  
+  ```như trong ảnh```  
+  [![item](item3.png)](https://grafxkid.itch.io/mini-fx-items-ui)  
+  
+  
 

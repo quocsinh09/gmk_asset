@@ -12,4 +12,17 @@
  
  [![rpg](rpg2.png)](https://arktentrion.itch.io/pixel-rpg-asset-pack)  
  
+ [![forest](forest.png)](https://elthen.itch.io/2d-pixel-art-forest-tileset)  
  
+ [![pico2](pico2.png)](https://stonetrench.itch.io/another-pico-8-tileset)  
+ 
+ [![multiple](mul.png)](https://delsin53.itch.io/pixel-tileset)  
+ 
+ ```
+ chỉ đi lên xuống, trái phải thôi :3
+ ```  
+ [![guardian](guardian.png)](http://blogoscoped.com/files/last-guardian-sprites.zip)  
+
+[![pico](pico3.png)](https://cluly.itch.io/pico-rpg-forest-tileset)  
+
+[![scifi](scifi.png)](https://rottingpixels.itch.io/sci-fi-tileset)  

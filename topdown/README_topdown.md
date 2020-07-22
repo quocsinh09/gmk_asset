@@ -11,6 +11,12 @@
 ```background nữa```  
 [![space](space2.png)](https://vectorpixelstar.itch.io/space)
 [![nebula](nebula.png) ](https://v-ktor.itch.io/nebula-background-images)  
- 
 
+[![tank](tank.png)](https://ragewortt.itch.io/top-down-sci-fi-tanks)  
 
+[![player](player.png)](https://aztrakatze.itch.io/top-down-character-pack-4-directions)  
+
+```click vào từng nhân vật sẽ ra nhân vật đó
+chỉ đi lên xuống, trái phải thôi :3
+```  
+[![mul](mul.png)](http://untamed.wild-refuge.net/rmxpresources.php?characters)  
