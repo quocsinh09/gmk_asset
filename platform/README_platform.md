@@ -1,11 +1,9 @@
 # gmk_asset
-[demon](https://rauszy.itch.io/bluedemon)
-![demon](demon.png)  
+[![demon](demon.png)](https://rauszy.itch.io/bluedemon)  
   
-[advanture](https://rvros.itch.io/animated-pixel-hero)
-![advanture](advanture.png)  
+[![advanture](advanture.png)](https://rvros.itch.io/animated-pixel-hero)  
 
-[sunnyland](https://ansimuz.itch.io/sunny-land-pixel-game-art)
+[sunnyland](https://ansimuz.itch.io/sunny-land-pixel-game-art)  
 ![sunnyland](sunnyland.png)  
 
 [background](https://edermunizz.itch.io/free-pixel-art-hill)
@@ -86,7 +84,8 @@
 [pirate](https://pixel-frog.itch.io/pirate-bomb)
 ![pirate](pirate.png)  
 
-[bat](https://elthen.itch.io/bat-sprite-pack)
+```
+[day la nhan vat bat](https://elthen.itch.io/bat-sprite-pack)
 ![bat](bat.png)  
-
+```
 
