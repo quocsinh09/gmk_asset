@@ -3,89 +3,72 @@
   
 [![advanture](advanture.png)](https://rvros.itch.io/animated-pixel-hero)  
 
-[sunnyland](https://ansimuz.itch.io/sunny-land-pixel-game-art)  
-![sunnyland](sunnyland.png)  
+```full pack```
+[![sunnyland](sunnyland.png)](https://ansimuz.itch.io/sunny-land-pixel-game-art)  
+ 
+```background```
+[![background](background.png)](https://edermunizz.itch.io/free-pixel-art-hill)  
 
-[background](https://edermunizz.itch.io/free-pixel-art-hill)  
-![background](background.png)  
+```background```
+[![forest_background](forest_background.png)](https://ansimuz.itch.io/parallax-forest)  
 
-[forest_background](https://ansimuz.itch.io/parallax-forest)  
-![forest_background](forest_background.png)  
+[![old_man](old_man.png)](https://oco.itch.io/medieval-fantasy-character-pack-2)  
 
-[old_man](https://oco.itch.io/medieval-fantasy-character-pack-2)  
-![old_man](old_man.png)  
+[![champ](champ.png)](https://alexdraws.itch.io/pixel-champions)  
 
-[champ](https://alexdraws.itch.io/pixel-champions)  
-![champ](champ.png)  
+[![gunner](gunner.png)](https://secrethideout.itch.io/team-wars-platformer-battle)  
 
-[gunner](https://secrethideout.itch.io/team-wars-platformer-battle)  
-![gunner](gunner.png)  
+[![cloud](cloud.png)](https://s4m-ur4i.itch.io/pixelart-clouds-background)  
 
-[cloud](https://s4m-ur4i.itch.io/pixelart-clouds-background)  
-![cloud](cloud.png)  
+```full pack```
+[![kingpig](kingpig.png)](https://pixel-frog.itch.io/kings-and-pigs)  
+  
+[![rogue](rogue.png)](https://uilleaggodwin.itch.io/roguelike-dungeon-asset-bundle)  
 
-[kingpig](https://pixel-frog.itch.io/kings-and-pigs)  
-![kingpig](kingpig.png)  
+[![fin](fin.png)](https://lhteam.itch.io/finn-sprite)  
 
-[rogue](https://uilleaggodwin.itch.io/roguelike-dungeon-asset-bundle)  
-![rogue](rogue.png)  
+```cái này xịn :3```
+[![ongsu](ongsu.png)](https://ansimuz.itch.io/gothicvania-monk-character-add-on)  
 
-[fin](https://lhteam.itch.io/finn-sprite)  
-![fin](fin.png)  
+[![axe](axe.png)](https://sanctumpixel.itch.io/imp-axe-demon-pixel-art-character)  
+  
+```full pack```
+[![season](season.png)](https://rottingpixels.itch.io/four-seasons-platformer-tileset-16x16free)  
 
-[ongsu =)  )  )  ](https://ansimuz.itch.io/gothicvania-monk-character-add-on)  
-![ongsu](ongsu.png)  
+[![advanture](advanture2.png)](https://elthen.itch.io/pixel-art-adventurer-sprites)  
 
-[axe](https://sanctumpixel.itch.io/imp-axe-demon-pixel-art-character)  
-![axe](axe.png)  
+```full pack```
+[![industrial](industrial.png)](https://ollieberzs.itch.io/industrial-pack)  
 
-[season](https://rottingpixels.itch.io/four-seasons-platformer-tileset-16x16free)  
-![season](season.png)  
+[![slime](slime.png) ](https://reff-sq.itch.io/slime-animations)  
+ 
+[![tiny](tiny.png)](https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art)  
 
-[advanture](https://elthen.itch.io/pixel-art-adventurer-sprites)  
-![advanture](advanture2.png)  
+```có thể dùng làm đạn``` 
+[![dunno](dunno.png)](https://xyezawr.itch.io/gif-free-pixel-effects-pack-6-forks-of-flame)  
+  
 
-[industrial](https://ollieberzs.itch.io/industrial-pack)  
-![industrial](industrial.png)  
+[![3nv](3nv.png)](https://free-game-assets.itch.io/free-assassin-mage-viking-game-heroes-pixel-art)  
 
-[slime](https://reff-sq.itch.io/slime-animations)  
-![slime](slime.png)  
+[![santa](santa.png)](https://elthen.itch.io/2d-pixel-art-santa-sprites)  
 
-[tiny](https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art)  
-![tiny](tiny.png)  
+[![martial](martial.png)](https://luizmelo.itch.io/martial-hero)  
 
-[nó xoay xoay :)  )  ](https://xyezawr.itch.io/gif-free-pixel-effects-pack-6-forks-of-flame)  
-![dunno](dunno.png)  
+```lấy nhân vật```
+[![multiple](pack1.png)](https://grafxkid.itch.io/sprite-pack-2)  
 
-[3nv](https://free-game-assets.itch.io/free-assassin-mage-viking-game-heroes-pixel-art)  
-![3nv](3nv.png)  
+[![multiple](pack2.png)](https://grafxkid.itch.io/sprite-pack-3)  
+ 
+[![multiple](pack3.png)](https://grafxkid.itch.io/sprite-pack-5)  
+  
+[![multiple](pack4.png)](https://grafxkid.itch.io/sprite-pack-1)  
+  
+[![multiple](pack5.png)](https://grafxkid.itch.io/sprite-pack-4)  
 
-[santa](https://elthen.itch.io/2d-pixel-art-santa-sprites)  
-![santa](santa.png)  
+```lấy nhân vật```
+[![pirate](pirate.png)  ](https://pixel-frog.itch.io/pirate-bomb)  
 
-[martial](https://luizmelo.itch.io/martial-hero)  
-![martial](martial.png)  
+[![bat](bat.png)  ](https://elthen.itch.io/bat-sprite-pack)  
 
-[multiple](https://grafxkid.itch.io/sprite-pack-2)  
-![multiple](pack1.png)  
-
-[multiple](https://grafxkid.itch.io/sprite-pack-3)  
-![multiple](pack2.png)  
-
-[multiple](https://grafxkid.itch.io/sprite-pack-5)  
-![multiple](pack3.png)  
-
-[multiple](https://grafxkid.itch.io/sprite-pack-1)  
-![multiple](pack4.png)  
-
-[multiple](https://grafxkid.itch.io/sprite-pack-4)  
-![multiple](pack5.png)  
-
-[pirate](https://pixel-frog.itch.io/pirate-bomb)  
-![pirate](pirate.png)  
-
-
-[```day la nhan vat bat```](https://elthen.itch.io/bat-sprite-pack)  
-![bat](bat.png)  
 
 
