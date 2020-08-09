@@ -24,3 +24,6 @@ click vào từng nhân vật sẽ ra nhân vật đó
 chỉ đi lên xuống, trái phải thôi :3
 ```  
 [![mul](../khongphaicainay/topdown/mul.png)](http://untamed.wild-refuge.net/rmxpresources.php?characters)  
+
+```full pack```  
+[![mul](../khongphaicainay/topdown/full.png)](https://cluly.itch.io/space-eaters)  
